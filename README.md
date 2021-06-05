@@ -1,2 +1,0 @@
-# ecomflutter
-flutter assignment ecommerce
